@@ -1,6 +1,2 @@
 version: 1.0
 runtime: docker
-image:
-  uri: 779921807187.dkr.ecr.us-east-1.amazonaws.com/my-python-app:latest
-  context: .
-  dockerfile: Dockerfile
